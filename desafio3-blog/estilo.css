@@ -60,7 +60,8 @@ h3{
 #titulo{
 
     padding: 1rem 0;
-    width: 100%;
+   
+    
     
 }
 
@@ -71,17 +72,21 @@ h3{
 /*Definindo o tamando das minhas sections e aside*/
 #container{
     
-    margin: auto;
+    
     margin-top: 3rem;
+    margin-left: 1.7rem;
+    gap: 1rem;
+ 
     display: flex;
-    justify-content: space-between;
-    width: 92%;
+   
+    width: 90%;
 }
 
 
 #conteudo-esquerda{
    
     width: 46.5rem
+    margin-right
 }
 
 #conteudo-direita{
